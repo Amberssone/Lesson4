@@ -1,0 +1,15 @@
+/Users/livia/Documents/geekbrains/Lesson 4/bin/Debug/net6.0/Lesson 4
+/Users/livia/Documents/geekbrains/Lesson 4/bin/Debug/net6.0/Lesson 4.deps.json
+/Users/livia/Documents/geekbrains/Lesson 4/bin/Debug/net6.0/Lesson 4.runtimeconfig.json
+/Users/livia/Documents/geekbrains/Lesson 4/bin/Debug/net6.0/Lesson 4.dll
+/Users/livia/Documents/geekbrains/Lesson 4/bin/Debug/net6.0/ref/Lesson 4.dll
+/Users/livia/Documents/geekbrains/Lesson 4/bin/Debug/net6.0/Lesson 4.pdb
+/Users/livia/Documents/geekbrains/Lesson 4/obj/Debug/net6.0/Lesson 4.csproj.AssemblyReference.cache
+/Users/livia/Documents/geekbrains/Lesson 4/obj/Debug/net6.0/Lesson 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/livia/Documents/geekbrains/Lesson 4/obj/Debug/net6.0/Lesson 4.AssemblyInfoInputs.cache
+/Users/livia/Documents/geekbrains/Lesson 4/obj/Debug/net6.0/Lesson 4.AssemblyInfo.cs
+/Users/livia/Documents/geekbrains/Lesson 4/obj/Debug/net6.0/Lesson 4.csproj.CoreCompileInputs.cache
+/Users/livia/Documents/geekbrains/Lesson 4/obj/Debug/net6.0/Lesson 4.dll
+/Users/livia/Documents/geekbrains/Lesson 4/obj/Debug/net6.0/ref/Lesson 4.dll
+/Users/livia/Documents/geekbrains/Lesson 4/obj/Debug/net6.0/Lesson 4.pdb
+/Users/livia/Documents/geekbrains/Lesson 4/obj/Debug/net6.0/Lesson 4.genruntimeconfig.cache
